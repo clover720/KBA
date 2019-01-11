@@ -1,11 +1,11 @@
 #Knowledge Base Alignment
 An open-source framework for aligning the same real-world entities in different knowledge bases.
 
-# content
+# Content
 1. KBA.ipynb
 2. data/
 
-#Pre-requisite:
+#Requirement
 1. Python (>=2.7)
 2. Numpy (>=1.13.3)
 3. TensorFlow (>=1.4.1)
